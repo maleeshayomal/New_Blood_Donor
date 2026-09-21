@@ -1,0 +1,5 @@
+request_id,required_blood_group,hospital,latitude,longitude,units_required,priority,request_date,notes
+REQ-1001,O+,National Hospital Colombo,6.9271,79.8612,2,Critical,2026-09-15 08:30:00,Emergency surgery for trauma patient in ICU
+REQ-1002,A-,Teaching Hospital Kandy,7.2906,80.6337,3,High,2026-09-15 09:15:00,Postpartum hemorrhage complication
+REQ-1003,B+,District General Hospital Gampaha,7.084,80.0098,1,Medium,2026-09-15 10:00:00,Scheduled cardiac procedure
+REQ-1004,AB+,Teaching Hospital Karapitiya Galle,6.0329,80.2168,2,Critical,2026-09-15 10:45:00,Acute gastrointestinal bleeding
