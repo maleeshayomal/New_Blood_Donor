@@ -9,6 +9,7 @@ Pillars:
 3. Multi-Criteria Recommendation Scoring & Explainable AI (XAI)
 """
 # Test comment: branch workflow check (sanuli -> dev)
+# Test comment 2: second branch workflow check (sanuli -> dev)
 
 import os
 import sys
