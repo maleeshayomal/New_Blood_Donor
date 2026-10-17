@@ -285,3 +285,13 @@ EXPLANATION FOR TOP DONOR (D0149):
 ## 16. Academic Attribution
 * Developed as part of the **Semester 4 AI Group Project** (AI Decision Support in Healthcare).
 * Decision Support Prototype • Deductive Reasoning + Predictive Machine Learning + Multi-Criteria Optimization.
+
+---
+
+## 17. 📚 Project Documentation
+The following documents provide details about the system architecture, dataset structure, and final project implementation.
+
+- [Architecture Documentation](docs/ARCHITECTURE.md)
+- [Data Dictionary](docs/DATA_DICTIONARY.md)
+- **[📄 Group 53 Final Project Report](docs/Final_Report_Group53.pdf)**
+
