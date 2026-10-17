@@ -288,10 +288,10 @@ EXPLANATION FOR TOP DONOR (D0149):
 
 ---
 
-## 17. 📚 Project Documentation
+## 17. Project Documentation
 The following documents provide details about the system architecture, dataset structure, and final project implementation.
 
 - [Architecture Documentation](docs/ARCHITECTURE.md)
 - [Data Dictionary](docs/DATA_DICTIONARY.md)
-- **[📄 Group 53 Final Project Report](docs/Final_Report_Group53.pdf)**
+- **[ Group 53 Final Project Report](docs/Final_Report_Group53.pdf)**
 
